@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAN-Adsul
-- 👀 I’m interested in ...ML 
-- 🌱 I’m currently learning ...ML
-- 💞️ I’m looking to collaborate on ...Projects of ML
+- 👀 I’m interested in ...Developement and ML.  
+- 🌱 I’m currently learning ...Machine Learning.
+- 💞️ I’m looking to collaborate on ...Projects of ML, Python, Database.
 - 📫 How to reach me ...sanketadsul77@gmail.com
 
 <!---
